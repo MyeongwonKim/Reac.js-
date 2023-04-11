@@ -1,3 +1,1 @@
-### Todo react app
-
-My first react app!
+### Todo list react로 만들기 연습
